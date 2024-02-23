@@ -1,22 +1,6 @@
 
-If you want to display this About Me section on your GitHub profile, you can do so by adding it to your README.md file in your GitHub repository. Here's how you can do it:
 
-Navigate to your GitHub repository where you want to display the About Me section.
-
-Edit or create a new file named README.md if it doesn't exist already.
-
-Copy and paste the About Me section into your README.md file.
-
-Make sure to use Markdown syntax to format the text appropriately. Markdown is a lightweight markup language that GitHub supports for formatting text.
-
-Save the changes to your README.md file.
-
-Once you've saved the changes, GitHub will automatically render the Markdown content in your repository's main page, making the About Me section visible to anyone visiting your profile.
-
-Here's an example of how your README.md file might look after adding the About Me section:
-
-
-# Welcome to My GitHub Profile! 🚀
+                                                                                  # Welcome to My GitHub Profile! 🚀
 
 ## About Me
 
