@@ -1,8 +1,7 @@
 
 
 ## About Me 💫
-
-🍀 I am a student with a passion for programming and a love for exploring new technologies. With experience in languages such as C, C++, Java, Python, and C#, I enjoy building projects and solving real-world problems. Currently, I'm diving deep into modern web development technologies like Next.js and React, exploring frameworks such as Solana for blockchain development, and delving into the world of Linux and Web3. When not coding, I love playing video games 👻 and exploring new places, with Valley of Flowers being a favorite destination. Always curious and open-minded, I am committed to learning and improving myself and others in every way possible. 💐
+filled with void and null ! 
 
 
 # 📊 GitHub Stats:
